@@ -97,3 +97,4 @@ of time.
 ## Summary
 
 We've looked at getting data from other websites via screen scraping, and how cumbersome and brittle it is trying to integrate data with presentation, like an HTML page. We've learned what an API is, how it differs from an interface meant to be consumed by a browser, and how to find out if a site offers an API.
+<p data-visibility='hidden'>PHRG What Is An API?</p>
